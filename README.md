@@ -37,7 +37,7 @@ Summary of equations
 
 Visual aids and intuition wherever possible
 
-Format: Notebook
+Format: TXT
 
 
 📬 Contact
