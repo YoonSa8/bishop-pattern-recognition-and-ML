@@ -16,12 +16,19 @@ People who like seeing theory broken down into digestible pieces
 📖 Table of Contents
 Chapter	Title	Notes
 3	Linear Models for Regression	✅ Notes
+
 4	Linear Models for Classification	✅ Notes
+
 5	Neural Networks	✅ Notes
+
 6	Kernel Methods	✅ Notes
+
 7	Sparse Kernel Machines	✅ Notes
+
 9	Mixture Models and EM	✅ Notes
+
 11	Sampling Methods	✅ Notes
+
 12	Continuous Latent Variables	✅ Notes
 
 Replace each link-to-notes with actual links to your files (PDFs, Markdown, etc.)
