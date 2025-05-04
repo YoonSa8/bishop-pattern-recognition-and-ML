@@ -14,7 +14,6 @@ Anyone who wants a refresher on the core mathematical concepts behind ML
 People who like seeing theory broken down into digestible pieces
 
 📖 Table of Contents
-Chapter	Title	Notes
 
 3	Linear Models for Regression	✅ Notes
 
