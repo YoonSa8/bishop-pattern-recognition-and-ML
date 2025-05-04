@@ -15,6 +15,7 @@ People who like seeing theory broken down into digestible pieces
 
 📖 Table of Contents
 Chapter	Title	Notes
+
 3	Linear Models for Regression	✅ Notes
 
 4	Linear Models for Classification	✅ Notes
